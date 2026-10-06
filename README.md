@@ -109,7 +109,7 @@ This principle applies to contributions: when proposing changes, please draft pr
 
 Issues and pull requests about the CIS specification are welcome in this repository: <https://github.com/configurator-file-type/cis-specification>. Issues about the CTO specification belong in <https://github.com/configurator-file-type/cto-specification>. Earlier copies of these repositories hosted elsewhere are no longer the place to contribute.
 
-Read the [new contributor guide](docs/ONBOARDING.md) first, then [`CONTRIBUTING.md`](CONTRIBUTING.md). Contributions to the specification carry the copyright and patent commitments of the Community Specification License, within the [Scope](Scope.md) of the CIS Specification Working Group.
+Anyone can open a pull request; Project membership is not required. Read the [new contributor guide](docs/ONBOARDING.md) first, then [`CONTRIBUTING.md`](CONTRIBUTING.md). Contributions to the specification carry the copyright and patent commitments of the Community Specification License, within the [Scope](Scope.md) of the CIS Specification Working Group.
 
 ---
 
